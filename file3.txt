@@ -1,3 +1,5 @@
 This is file 3
 
 Direct Edit
+
+Another line
