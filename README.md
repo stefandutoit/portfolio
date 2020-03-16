@@ -6,3 +6,5 @@ Stefan makes a change
 Stefan makes a 2nd change
 
 Stefan makes a 3rd Change
+
+Stefan Change on Branch 1
